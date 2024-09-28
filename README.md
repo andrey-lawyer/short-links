@@ -14,7 +14,7 @@ This project is a URL shortening service that allows users to generate short lin
 - Docker
 - PostgreSQL
 - React
-- - Spring Boot (Java)
+- Spring Boot (Java)
 
 ## Installation
 
