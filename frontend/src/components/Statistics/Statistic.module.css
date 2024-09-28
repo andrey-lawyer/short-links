@@ -1,0 +1,13 @@
+.title {
+    text-align: center;
+}
+
+.table{
+    margin-top: 30px;
+}
+
+.block{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
